@@ -36,10 +36,10 @@ bash
 # Database Configuration
 POSTGRES_USER=postgres
 POSTGRES_PASSWORD=postgres
-POSTGRES_DB=etl_database
+POSTGRES_DB=postgres-db
 POSTGRES_HOST_PORT=5432
-APP_HOST_PORT=8000
+
 # Application Configuration
-DATABASE_URL=postgresql://postgres:postgres@postgres:5432/etl_database
+DATABASE_URL=postgresql://postgres:postgres@postgres:5432/postgres-db
 
 4. 
