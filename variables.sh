@@ -1,0 +1,3 @@
+export POSTGRES_DB=parch_and_posey
+export POSTGRES_USER=postgres
+export POSTGRES_PASSWORD=postgres
